@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+/*body {*/
+/*  font-family: "IBM Plex Sans", sans-serif;*/
+/*}*/
+
+body {
+  font-family: "Major Mono Display", monospace;
+}
+
+
+.img-bg {
+  background-image: url("/wave.svg");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+
+.bg-glass {
+  background: rgba( 0, 0, 0, 0.25 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.image-1{
+  background-image: url("/waves.svg");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+
+.image-2{
+  background-image: url("/blob.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}

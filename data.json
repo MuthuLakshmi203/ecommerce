@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "67dab8c5f738aa279834495b"
+  },
+  "name": "Fluffy Colored Shirt Kids",
+  "price": 500,
+  "image_url": "/products/img.png",
+  "createdAt": {
+    "$date": "2025-03-19T12:29:57.306Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-19T12:29:57.306Z"
+  },
+  "__v": 0,
+  "description": "Here are a few options for a fluffy colored shirt description, catering to different styles and target audiences:\n\nOption 1 (Emphasis on Comfort and Texture):\n\nEmbrace Cozy Chic with Our Fluffy Colored Shirt\n\nWrap yourself in a cloud of softness! Our fluffy colored shirt is the perfect blend of comfort and style. Crafted from a luxuriously soft, plush fabric, this shirt feels like a warm hug against your skin. The unique, textured finish adds a touch of playful sophistication, while the vibrant color options let you express your personal style. Whether you're lounging at home or stepping out for a casual outing, this shirt will be your new favorite go-to",
+  "category": "kids"
+},
+
+{
+  "_id": {
+    "$oid": "67dab926f738aa279834495e"
+  },
+  "name": "Leafy Printed shirt",
+  "price": 1000,
+  "image_url": "/products/img1.png",
+  "createdAt": {
+    "$date": "2025-03-19T12:31:34.614Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-19T12:31:34.614Z"
+  },
+  "__v": 0,
+  "description": "Here are a few options for a fluffy colored shirt description, catering to different styles and target audiences:\n\nOption 1 (Emphasis on Comfort and Texture):\n\nEmbrace Cozy Chic with Our Fluffy Colored Shirt\n\nWrap yourself in a cloud of softness! Our fluffy colored shirt is the perfect blend of comfort and style. Crafted from a luxuriously soft, plush fabric, this shirt feels like a warm hug against your skin. The unique, textured finish adds a touch of playful sophistication, while the vibrant color options let you express your personal style. Whether you're lounging at home or stepping out for a casual outing, this shirt will be your new favorite go-to",
+  "category": "mens"
+},
+
+{
+"_id": {
+"$oid": "67dab96df738aa2798344960"
+},
+"name": "Winter Kinned Wear",
+"price": 1500,
+"image_url": "/products/img.png",
+"createdAt": {
+"$date": "2025-03-19T12:32:45.930Z"
+},
+"updatedAt": {
+"$date": "2025-03-19T12:32:45.930Z"
+},
+"__v": 0,
+"description": "Here are a few options for a fluffy colored shirt description, catering to different styles and target audiences:\n\nOption 1 (Emphasis on Comfort and Texture):\n\nEmbrace Cozy Chic with Our Fluffy Colored Shirt\n\nWrap yourself in a cloud of softness! Our fluffy colored shirt is the perfect blend of comfort and style. Crafted from a luxuriously soft, plush fabric, this shirt feels like a warm hug against your skin. The unique, textured finish adds a touch of playful sophistication, while the vibrant color options let you express your personal style. Whether you're lounging at home or stepping out for a casual outing, this shirt will be your new favorite go-to",
+"category": "womens"
+}]
